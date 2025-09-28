@@ -10,7 +10,7 @@
 {
 "name":"NBT", 
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png",
-"url":"https://dookeela.live/live-tv/nbt2hd",
+"url":"https://dookeela2.live/live-tv/nbt2hd",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -33,7 +33,7 @@
 {
 "name":"ThaiTPBSสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-"url":"https://dookeela.live/live-tv/thaipbs",
+"url":"https://dookeela2.live/live-tv/thaipbs",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -49,7 +49,7 @@
 {
 "name":"ALTV4สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
-"url":"https://dookeela.live/live-tv/altv4",
+"url":"https://dookeela2.live/live-tv/altv4",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -72,7 +72,7 @@
 {
 "name":"Ch5สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-"url":"https://dookeela.live/live-tv/ch5hd",
+"url":"https://dookeela2.live/live-tv/ch5hd",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -80,7 +80,7 @@
 {
 "name":"TSport7",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-"url":"https://dookeela.live/live-tv/tsports7",
+"url":"https://dookeela2.live/live-tv/tsports7",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"}, 
@@ -111,7 +111,7 @@
 {
 "name":"TNN16", 
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png", 
-"url":"https://dookeela.live/live-tv/tnn",
+"url":"https://dookeela2.live/live-tv/tnn",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -127,7 +127,7 @@
 {
 "name":"JKN18",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
-"url":"https://dookeela.live/live-tv/jkn18",
+"url":"https://dookeela2.live/live-tv/jkn18",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -151,7 +151,7 @@
 {
 "name":"Nationสำรอง1", 
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png", 
-"url":"https://dookeela.live/live-tv/nationtv",
+"url":"https://dookeela2.live/live-tv/nationtv",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -191,7 +191,7 @@
 {
 "name":"Gmm25",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-"url":"https://dookeela.live/live-tv/gmm25",
+"url":"https://dookeela2.live/live-tv/gmm25",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -207,7 +207,7 @@
 {
 "name":"CH8",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",  
-"url":"https://dookeela.live/live-tv/ch8",
+"url":"https://dookeela2.live/live-tv/ch8",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -239,7 +239,7 @@
 {
 "name":"Mono29สำรอง2",  
 "image":"https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",  
-"url":"https://dookeela.live/live-tv/mono29",
+"url":"https://dookeela2.live/live-tv/mono29",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -247,7 +247,7 @@
 {
 "name":"Mono29Plus",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
-"url":"https://dookeela.live/live-tv/mono29plus",
+"url":"https://dookeela2.live/live-tv/mono29plus",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -263,7 +263,7 @@
 {
 "name":"Mcot",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
-"url":"https://dookeela.live/live-tv/mcothd",
+"url":"https://dookeela2.live/live-tv/mcothd",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -279,7 +279,7 @@
 {
 "name":"One31",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",  
-"url":"https://dookeela.live/live-tv/one31",
+"url":"https://dookeela2.live/live-tv/one31",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -295,7 +295,7 @@
 {
 "name":"ThairatTV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-"url":"https://dookeela.live/live-tv/thairathtv",
+"url":"https://dookeela2.live/live-tv/thairathtv",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -311,7 +311,7 @@
 {
 "name":"Ch3",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-"url":"https://dookeela.live/live-tv/ch3hd",
+"url":"https://dookeela2.live/live-tv/ch3hd",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -327,7 +327,7 @@
 {
 "name":"AmarinTV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-"url":"https://dookeela.live/live-tv/amarintv",
+"url":"https://dookeela2.live/live-tv/amarintv",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -359,7 +359,7 @@
 {
 "name":"PPTV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-"url":"https://dookeela.live/live-tv/pptv",
+"url":"https://dookeela2.live/live-tv/pptv",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -399,7 +399,7 @@
 {
 "name":"HBO",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
-"url":"https://dookeela.live/live-tv/hbo",
+"url":"https://dookeela2.live/live-tv/hbo",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -415,7 +415,7 @@
 {
 "name":"HBOHits",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
-"url":"https://dookeela.live/live-tv/hbo-hits",
+"url":"https://dookeela2.live/live-tv/hbo-hits",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -431,7 +431,7 @@
 {     
 "name":"HBOSignature",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
-"url":"https://dookeela.live/live-tv/hbo-signature",
+"url":"https://dookeela2.live/live-tv/hbo-signature",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -447,7 +447,7 @@
 {
 "name":"HBOFamily",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",              
-"url":"https://dookeela.live/live-tv/hbo-family",
+"url":"https://dookeela2.live/live-tv/hbo-family",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -463,7 +463,7 @@
 {
 "name":"Cinemax",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
-"url":"https://dookeela.live/live-tv/cinemax",
+"url":"https://dookeela2.live/live-tv/cinemax",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -479,7 +479,7 @@
 {
 "name":"Hits",
 "image":"https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",
-"url":"https://dookeela.live/live-tv/hits",
+"url":"https://dookeela2.live/live-tv/hits",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -495,7 +495,7 @@
 {
 "name":"Hitmovies",
 "image":"https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",
-"url":"https://dookeela.live/live-tv/hits-movies",
+"url":"https://dookeela2.live/live-tv/hits-movies",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -519,7 +519,7 @@
 {
 "name":"RockAction",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
-"url":"https://dookeela.live/live-tv/rock-action",
+"url":"https://dookeela2.live/live-tv/rock-action",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -535,7 +535,7 @@
 {
 "name":"RockEnterainment",
 "image":"https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",
-"url":"https://dookeela.live/live-tv/rock-entertainment",
+"url":"https://dookeela2.live/live-tv/rock-entertainment",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -551,7 +551,7 @@
 {
 "name":"Axn",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
-"url":"https://dookeela.live/live-tv/axn",
+"url":"https://dookeela2.live/live-tv/axn",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -567,7 +567,7 @@
 {
 "name":"Warnertv",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
-"url":"https://dookeela.live/live-tv/warnertv",
+"url":"https://dookeela2.live/live-tv/warnertv",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -583,7 +583,7 @@
 {
 "name":"Paramountnetwork",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png",
-"url":"https://dookeela.live/live-tv/paramount-network",
+"url":"https://dookeela2.live/live-tv/paramount-network",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -599,7 +599,7 @@
 {
 "name":"trueTHAIFILM",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://dookeela.live/live-tv/truethaifilm",
+"url":"https://dookeela2.live/live-tv/truethaifilm",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -615,7 +615,7 @@
 {
 "name":"trueFILM1",  
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",  
-"url":"https://dookeela.live/live-tv/truefilm1",
+"url":"https://dookeela2.live/live-tv/truefilm1",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -631,7 +631,7 @@
 {
 "name":"trueFILM2",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://dookeela.live/live-tv/truefilm2",
+"url":"https://dookeela2.live/live-tv/truefilm2",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -647,7 +647,7 @@
 {
 "name":"trueMOVIEHITS",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://dookeela.live/live-tv/truemoviehits",
+"url":"https://dookeela2.live/live-tv/truemoviehits",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -663,7 +663,7 @@
 {
 "name":"trueFILMASIA",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://dookeela.live/live-tv/truefilmasia",
+"url":"https://dookeela2.live/live-tv/truefilmasia",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -679,7 +679,7 @@
 {
 "name":"trueSeries",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://dookeela.live/live-tv/trueseries",
+"url":"https://dookeela2.live/live-tv/trueseries",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -695,7 +695,7 @@
 { 
 "name":"trueASIANMORE",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
-"url":"https://dookeela.live/live-tv/trueasianmore",
+"url":"https://dookeela2.live/live-tv/trueasianmore",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -711,7 +711,7 @@
 {
 "name":"CCM",
 "image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
-"url":"https://dookeela.live/live-tv/ccm",
+"url":"https://dookeela2.live/live-tv/ccm",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -727,7 +727,7 @@
 {
 "name":"AsianHits",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",
-"url":"https://dookeela.live/live-tv/3bbasian",
+"url":"https://dookeela2.live/live-tv/3bbasian",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -743,7 +743,7 @@
 {
 "name":"TVBThai",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",
-"url":"https://dookeela.live/live-tv/tvbclassichd",
+"url":"https://dookeela2.live/live-tv/tvbclassichd",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -759,7 +759,7 @@
 {
 "name":"Dragon",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png",
-"url":"https://dookeela.live/live-tv/mangorn",
+"url":"https://dookeela2.live/live-tv/mangorn",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -775,7 +775,7 @@
 {
 "name":"tvN",
 "image":"https://dookeela.live/uploads/1703833429.png",
-"url":"https://dookeela.live/live-tv/tvn-indonesia",
+"url":"https://dookeela2.live/live-tv/tvn-indonesia",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -791,7 +791,7 @@
 {
 "name":"tvn-movies",
 "image":"https://dookeela.live/uploads/1714100840.png",
-"url":"https://dookeela.live/live-tv/tvn-movies",
+"url":"https://dookeela2.live/live-tv/tvn-movies",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -807,7 +807,7 @@
 {
 "name":"iQIYI",
 "image":"https://dookeela.live/uploads/1706405008.png",
-"url":"https://dookeela.live/live-tv/iqiyi",
+"url":"https://dookeela2.live/live-tv/iqiyi",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1020,7 +1020,7 @@
 {
 "name":"Discovery",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
-"url":"https://dookeela.live/live-tv/discovery",
+"url":"https://dookeela2.live/live-tv/discovery",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1036,7 +1036,7 @@
 {
 "name":"DiscoveryAsia",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",
-"url":"https://dookeela.live/live-tv/discovery-asia",
+"url":"https://dookeela2.live/live-tv/discovery-asia",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1052,7 +1052,7 @@
 {
 "name":"History",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-history.png",
-"url":"https://dookeela.live/live-tv/history",
+"url":"https://dookeela2.live/live-tv/history",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1068,7 +1068,7 @@
 {
 "name":"Animal Planet",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",
-"url":"https://dookeela.live/live-tv/animal-planet",
+"url":"https://dookeela2.live/live-tv/animal-planet",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1084,7 +1084,7 @@
 {
 "name":"trueEXPLOREWILD",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
-"url":"https://dookeela.live/live-tv/trueexplorewild",
+"url":"https://dookeela2.live/live-tv/trueexplorewild",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"}, 
@@ -1100,7 +1100,7 @@
 {
 "name":"trueEXPLORELIFE",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"url":"https://dookeela.live/live-tv/trueexplorelife",
+"url":"https://dookeela2.live/live-tv/trueexplorelife",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"}, 
@@ -1116,7 +1116,7 @@
 {
 "name":"trueEXPLORESCI",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
-"url":"https://dookeela.live/live-tv/trueexploresci",
+"url":"https://dookeela2.live/live-tv/trueexploresci",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"}, 
@@ -1132,7 +1132,7 @@
 {
 "name":"BBCearth",
 "image":"https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0",
-"url":"https://dookeela.live/live-tv/bbc-earth",
+"url":"https://dookeela2.live/live-tv/bbc-earth",
 "referer":"https://dookeela.live/live-tv/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"}, 
@@ -1148,7 +1148,7 @@
 {
 "name":"BBCLifestyle",
 "image":"http://tvsmagazine.com/images/channels/lrg_130.jpg",
-"url":"https://dookeela.live/live-tv/bbc-lifestyle",
+"url":"https://dookeela2.live/live-tv/bbc-lifestyle",
 "referer":"https://dookeela.live/live-tv/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"}, 
@@ -1164,7 +1164,7 @@
 {
 "name":"Natgeographic",
 "image":"https://dookeela.live/uploads/1716366217.png",
-"url":"https://dookeela.live/live-tv/national-geographic",
+"url":"https://dookeela2.live/live-tv/national-geographic",
 "referer":"https://dookeela.live/live-tv/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1180,7 +1180,7 @@
 {
 "name":"Natgeowild",
 "image":"https://dookeela.live/uploads/1716363369.png",
-"url":"https://dookeela.live/live-tv/nat-geo-wild",
+"url":"https://dookeela2.live/live-tv/nat-geo-wild",
 "referer":"https://dookeela.live/live-tv/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1196,7 +1196,7 @@
 {  
 "name":"Crime-Investigation",
 "image":"https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp",
-"url":"https://dookeela.live/live-tv/crime-investigation",
+"url":"https://dookeela2.live/live-tv/crime-investigation",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1212,7 +1212,7 @@
 {  
 "name":"DMAX",
 "image":"https://dookeela.live/uploads/1714101765.png",
-"url":"https://dookeela.live/live-tv/dmax",
+"url":"https://dookeela2.live/live-tv/dmax",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1228,7 +1228,7 @@
 {
 "name":"Lovenature",
 "image":"https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp",
-"url":"https://dookeela.live/live-tv/lovenature4k",
+"url":"https://dookeela2.live/live-tv/lovenature4k",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1284,7 +1284,7 @@
 {
 "name":"TLC",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",
-"url":"https://dookeela.live/live-tv/afn",
+"url":"https://dookeela2.live/live-tv/afn",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1300,7 +1300,7 @@
 {
 "name":"afn",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
-"url":"https://dookeela.live/live-tv/afn",
+"url":"https://dookeela2.live/live-tv/afn",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1316,7 +1316,7 @@
 {
 "name":"foodnetwork",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",
-"url":"https://dookeela.live/live-tv/foodnetwork",
+"url":"https://dookeela2.live/live-tv/foodnetwork",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1332,7 +1332,7 @@
 {
 "name":"trueX-ZYTE",
 "image":"https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
-"url":"https://dookeela.live/live-tv/truex-zyte",
+"url":"https://dookeela2.live/live-tv/truex-zyte",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1348,7 +1348,7 @@
 {
 "name":"SamRujLok",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
-"url":"https://dookeela.live/live-tv/samrujlok",
+"url":"https://dookeela2.live/live-tv/samrujlok",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1364,7 +1364,7 @@
 {
 "name":"Mysci",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",
-"url":"https://dookeela.live/live-tv/mysci",
+"url":"https://dookeela2.live/live-tv/mysci",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1380,7 +1380,7 @@
 {
 "name":"AnimalShow",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
-"url":"https://dookeela.live/live-tv/animalshow",
+"url":"https://dookeela2.live/live-tv/animalshow",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1396,7 +1396,7 @@
 {
 "name":"Thainess",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",
-"url":"https://dookeela.live/live-tv/thainess",
+"url":"https://dookeela2.live/live-tv/thainess",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1460,7 +1460,7 @@
 {
 "name":"Boomerang",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",
-"url":"https://dookeela.live/live-tv/boomerang",
+"url":"https://dookeela2.live/live-tv/boomerang",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1468,7 +1468,7 @@
 {
 "name":"Cartoon Club",
 "image":"https://dookeela.live/uploads/1705504043.png",
-"url":"https://dookeela.live/live-tv/cartoonclub",
+"url":"https://dookeela2.live/live-tv/cartoonclub",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1476,7 +1476,7 @@
 {
 "name":"True Spark Play",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp",
-"url":"https://dookeela.live/live-tv/truesparkplay",
+"url":"https://dookeela2.live/live-tv/truesparkplay",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1484,7 +1484,7 @@
 {
 "name":"DreamWorks",
 "image":"https://dookeela.live/uploads/1723200736.png",
-"url":"https://dookeela.live/live-tv/dreamworks",
+"url":"https://dookeela2.live/live-tv/dreamworks",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1492,7 +1492,7 @@
 {
 "name":"Astro Ceria",
 "image":"https://dookeela.live/uploads/1721687988.png",
-"url":"https://dookeela.live/live-tv/astroceria",
+"url":"https://dookeela2.live/live-tv/astroceria",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1500,7 +1500,7 @@
 {
 "name":"Cartoon Network",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",
-"url":"https://dookeela.live/live-tv/cartoon-network",
+"url":"https://dookeela2.live/live-tv/cartoon-network",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1508,7 +1508,7 @@
 {
 "name":"Disney Channel",
 "image":"https://dookeela.live/uploads/1716361978.png",
-"url":"https://dookeela.live/live-tv/disney-channel",
+"url":"https://dookeela2.live/live-tv/disney-channel",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1516,7 +1516,7 @@
 {
 "name":"Disney Junior",
 "image":"https://dookeela.live/uploads/1716362497.png",
-"url":"https://dookeela.live/live-tv/disney-junior",
+"url":"https://dookeela2.live/live-tv/disney-junior",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1524,7 +1524,7 @@
 {
 "name":"Disney XD",
 "image":"https://dookeela.live/uploads/1716362753.png",
-"url":"https://dookeela.live/live-tv/disneyxd",
+"url":"https://dookeela2.live/live-tv/disneyxd",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1532,7 +1532,7 @@
 {
 "name":"Nick Jr.",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",
-"url":"https://dookeela.live/live-tv/nickjr",
+"url":"https://dookeela2.live/live-tv/nickjr",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1540,7 +1540,7 @@
 {
 "name":"Nickelodeon",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",
-"url":"https://dookeela.live/live-tv/nickelodeon",
+"url":"https://dookeela2.live/live-tv/nickelodeon",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1548,7 +1548,7 @@
 {
 "name":"cartoonito",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",
-"url":"https://dookeela.live/live-tv/cartoonito",
+"url":"https://dookeela2.live/live-tv/cartoonito",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1556,7 +1556,7 @@
 {
 "name":"CNN",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png",
-"url":"https://dookeela.live/live-tv/cnn",
+"url":"https://dookeela2.live/live-tv/cnn",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1564,7 +1564,7 @@
 {
 "name":"BBCNews",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png",
-"url":"https://dookeela.live/live-tv/bbc-news",
+"url":"https://dookeela2.live/live-tv/bbc-news",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1572,7 +1572,7 @@
 {
 "name":"France24",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",
-"url":"https://dookeela.live/live-tv/france24",
+"url":"https://dookeela2.live/live-tv/france24",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1580,7 +1580,7 @@
 {
 "name":"CCTV4",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",
-"url":"https://dookeela.live/live-tv/cctv4",
+"url":"https://dookeela2.live/live-tv/cctv4",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
@@ -1588,17 +1588,9 @@
 {
 "name":"NHKWORLD-JAPAN",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",
-"url":"https://dookeela.live/live-tv/nhk",
+"url":"https://dookeela2.live/live-tv/nhk",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
-"playInNatPlayer":"true"},
-
-{
-"name":"Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ",
-"image":"https://www.24-hdd.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-187x269.png",
-"url":"https://main.24playerhd.com/m3u8/6e883e8bccc04f558be1c5c7/6e883e8bccc04f558be1c5c7438.m3u8",
-"referer":"https://main.24playerhd.com",
-"info":"Server 24hd",
 "playInNatPlayer":"true"},
 
 
