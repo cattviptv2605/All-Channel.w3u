@@ -18,9 +18,9 @@
 {
 "name":"NBTสำรอง1", 
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png",
-"url":"https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8",
-"referer":"https://tv.soodaza.com/",
-"info":"Server tv.soodaza",
+"url":"https://www.livedoomovies.com/02_NBTSD_480p/chunklist.m3u8",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
  
 {
@@ -88,9 +88,9 @@
 {
 "name":"TSport7สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8",
-"referer":"https://tv.soodaza.com/",
-"info":"Server tv.soodaza",
+"url":"https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
 
 {
@@ -119,9 +119,9 @@
 {
 "name":"TNN16สำรอง1", 
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png", 
-"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts",
-"referer":"http://tbtv.me:2095",
-"info":"Server tbtv",
+"url":"https://www.livedoomovies.com/02_TNN24_480p/chunklist.m3u8",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
 
 {
@@ -136,8 +136,8 @@
 "name":"JKN18สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
 "url":"https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
-"referer":"https://tv.soodaza.com/",
-"info":"Server tv.soodaza",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
 
 {
@@ -303,9 +303,9 @@
 {
 "name":"ThairatTVสำรอง1",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",  
-"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8",
-"referer":"https://tv.soodaza.com/",
-"info":"Server tv.soodaza",
+"url":"https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
 				
 {
@@ -319,9 +319,9 @@
 {
 "name":"Ch3สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
-"referer":"https://tv.soodaza.com/",
-"info":"Server tv.soodaza",
+"url":"https://www.livedoomovies.com/02_3HD_720p/3HDChunklist.m3u8",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
 
 {
@@ -335,9 +335,9 @@
 {
 "name":"AmarinTVสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
-"referer":"https://tv.soodaza.com/",
-"info":"Server tv.soodaza",
+"url":"https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
 					
 {
@@ -351,9 +351,9 @@
 {
 "name":"Ch7สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",  
-"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
-"referer":"https://tv.soodaza.com/",
-"info":"Server tv.soodaza",
+"url":"https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
 		
 {
@@ -367,9 +367,9 @@
 {
 "name":"PPTVสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",  
-"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8",
-"referer":"https://tv.soodaza.com/",
-"info":"Server tv.soodaza",
+"url":"https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8",
+"referer":"https://www.88-hd.com/",
+"info":"Server 88-hd",
 "playInNatPlayer":"true"},
 
 {
@@ -407,7 +407,7 @@
 {
 "name":"HBOสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbo.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -423,7 +423,7 @@
 {
 "name":"HBOHitsสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbohits.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbohits.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -439,7 +439,7 @@
 {     
 "name":"HBOSignatureสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbosignature.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbosignature.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -455,7 +455,7 @@
 {
 "name":"HBOFamilyสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",              
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbofamily.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbofamily.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -471,7 +471,7 @@
 {
 "name":"Cinemaxสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/cinemax.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/cinemax.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -527,7 +527,7 @@
 {
 "name":"RockActionสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/rockaction.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockaction.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -543,7 +543,7 @@
 {
 "name":"RockEnterainmentสำรอง1",
 "image":"https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/rockenterainment.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockenterainment.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -559,7 +559,7 @@
 {
 "name":"Axnสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueaxn.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueaxn.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -575,7 +575,7 @@
 {
 "name":"Warnertvสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/warnertv.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/warnertv.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -591,11 +591,10 @@
 {
 "name":"trueTHAIFILMสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://la4.youllneverwalkalone.online:9310/v5/yf6XMedzUmrR10idJvXIrg/1760581977/6431bf352bf71e58584901faeddbb00d/RxtpAYDyH3Hmi5pXXKHgpw/1760592657/live/dx-origin/sd-thaifilm_480/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 {
 "name":"trueFILM1",  
@@ -608,11 +607,10 @@
 {
 "name":"trueFILM1สำรอง1",  
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",  
-"url":"https://e108.hellotherepadawan.org/v5/xmI8mAWB7RRMzWtbcLX0Mg/1756835903/92e6f341c728a6e9b2f28b85333fae8d/C74OvVucWntrwGjZh4OJSw/1756846583/live/dx-origin/hd-tfilm_720/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 {
 "name":"trueFILM2",
@@ -625,11 +623,10 @@
 {
 "name":"trueFILM2สำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://e102.hellotherepadawan.org/v5/0RIQnq5Htx2zn0NTWELuXA/1756836224/92e6f341c728a6e9b2f28b85333fae8d/yCB4Q4-kyckMlPV39a84gA/1756846904/live/dx-origin/hd-tfilm2_720/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 {
 "name":"trueMOVIEHITS",
@@ -642,11 +639,10 @@
 {
 "name":"trueMOVIEHITSสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://e110.youllneverwalkalone.online/v5/i6cVmUYzJybZpqrxIyqw3Q/1760332460/7ee258af96c58dbcb65133f2f6d99bd3/AjnJ4xoyCg8yhDdH_xk5kg/1760343140/live/vx-origin/sd-moviehits_480/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 {
 "name":"trueFILMASIA",
@@ -659,11 +655,10 @@
 {
 "name":"trueFILMASIAสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://e110.youllneverwalkalone.online/v5/IBQhTVuOLK4hc-nYtdT10g/1761357784/a523850b6e0c201af21ac0a0393c5eeb/Mpph7QwK1Wt4lJBRYkQ2rw/1761368464/live/vx-origin/sd-filmasia_720/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 {
 "name":"trueSeries",
@@ -676,11 +671,10 @@
 {
 "name":"trueSeriesสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://la5.youllneverwalkalone.online:9310/v5/zbqSQTLMsIS1ojjoHuk8EA/1760582129/6431bf352bf71e58584901faeddbb00d/CqrSADGDv-jevVzv7i9QBw/1760592809/live/dx-origin/sd-series_480/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 { 
 "name":"trueASIANMORE",
@@ -693,11 +687,10 @@
 { 
 "name":"trueASIANMOREสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
-"url":"https://la5.youllneverwalkalone.online:9310/v5/GbJEHC4UBWKpa6C_mSFmZA/1760503781/7ee258af96c58dbcb65133f2f6d99bd3/PB0Xwv6RktQ94W7M1WSVsA/1760514461/live/vx-origin/hd-asianmore_480/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueasianmore.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 {
 "name":"CCM",
@@ -710,7 +703,7 @@
 {
 "name":"CCMสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueccm.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueccm.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -726,7 +719,7 @@
 {
 "name":"AsianHitsสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/asianhits.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/asianhits.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -993,22 +986,6 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"Movies7",  
-"image":"https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",  
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies1.m3u8",
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer":"true"},
-
-{
-"name":"Movies8",  
-"image":"https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",  
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies2.m3u8",
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer":"true"},
-
-{
 "name":"Discovery",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
 "url":"https://dookeela2.live/live-tv/discovery",
@@ -1019,7 +996,7 @@
 {
 "name":"Discoveryสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/discovery.m3u8",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1051,7 +1028,7 @@
 {
 "name":"Historyสำรอง1",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-history.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truehistroy.m3u8",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truehistory.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1083,11 +1060,10 @@
 {
 "name":"trueEXPLOREWILDสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
-"url":"https://la5.youllneverwalkalone.online:9310/v5/lE7wdsjmi3OwkxA-0Ml7tA/1760503252/7ee258af96c58dbcb65133f2f6d99bd3/AmBV3hLRDNCut23etKcLfw/1760513932/live/vx-origin/sd-expwild_480/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorewild.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
                           				  						                         								
 {
 "name":"trueEXPLORELIFE",
@@ -1100,11 +1076,10 @@
 {
 "name":"trueEXPLORELIFEสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"url":"https://la4.youllneverwalkalone.online:9310/v5/n8x4A0fFHN6bH6pyBHqt5g/1760503311/bfd60eb37df07ed9a6d8196827f682ca/Lc2aFGG3xsGJ5JUGateo4w/1760513991/live/vx-origin/sd-explife_480/chunks.m3u8",
-"referer":"https://embed.makeitso.online/",
-"info":"Server embed.makeitso.online",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-"origin": "https://embed.makeitso.online"},
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorelife.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 {
 "name":"trueEXPLORESCI",
@@ -1117,7 +1092,7 @@
 {
 "name":"trueEXPLORESCIสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexploresci.m3u8",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexploresci.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1133,7 +1108,7 @@
 {
 "name":"BBCearthสำรอง1",
 "image":"https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbcearth.m3u8",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1149,7 +1124,7 @@
 {
 "name":"BBCLifestyleสำรอง1",
 "image":"http://tvsmagazine.com/images/channels/lrg_130.jpg",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbclifestyle.m3u8",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbclifestyle.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1197,7 +1172,7 @@
 {  
 "name":"Crime-Investigationสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/crime-Investigation.m3u8",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/crime-Investigation.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1237,7 +1212,7 @@
 {
 "name":"OutDoor",
 "image":"https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/outdoor.m3u8", 
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/outdoor.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1269,7 +1244,7 @@
 {
 "name":"LifeTime",
 "image":"https://dookeela.live/uploads/1720781589.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truelifetime.m3u8",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truelifetime.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1285,7 +1260,7 @@
 {
 "name":"TLCสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/tlc.m3u8", 
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/tlc.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1301,7 +1276,7 @@
 {
 "name":"afnสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/asianfoodchannel.m3u8", 
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/asianfoodchannel.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1317,7 +1292,7 @@
 {
 "name":"foodnetworkสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/foodnetwork.m3u8", 
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/foodnetwork.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1333,7 +1308,7 @@
 {
 "name":"trueX-ZYTEสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truexzyte.m3u8", 
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truexzyte.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1365,7 +1340,7 @@
 {
 "name":"Mysciสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/mysci.m3u8", 
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/mysci.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1381,7 +1356,7 @@
 {
 "name":"AnimalShowสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/animalshow.m3u8", 
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/animalshow.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1397,7 +1372,7 @@
 {
 "name":"Thainessสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/thainess.m3u8", 
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/thainess.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -1405,7 +1380,7 @@
 {
 "name":"Khongdee",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/khongdee.m3u8",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/khongdee.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
