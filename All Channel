@@ -18,9 +18,9 @@
 {
 "name":"NBTสำรอง1", 
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png",
-"url":"https://www.livedoomovies.com/02_NBTSD_480p/chunklist.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/NBT.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
  
 {
@@ -88,9 +88,9 @@
 {
 "name":"TSport7สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-"url":"https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8",
+"referer":"https://livesod365.info/",
+"info":"Server livesod365",
 "playInNatPlayer":"true"},
 
 {
@@ -108,6 +108,7 @@
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb"},
+
 {
 "name":"TNN16", 
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png", 
@@ -119,9 +120,9 @@
 {
 "name":"TNN16สำรอง1", 
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png", 
-"url":"https://www.livedoomovies.com/02_TNN24_480p/chunklist.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/TNN24.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 
 {
@@ -303,9 +304,9 @@
 {
 "name":"ThairatTVสำรอง1",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",  
-"url":"https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/ThairatTV.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 				
 {
@@ -319,9 +320,9 @@
 {
 "name":"Ch3สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-"url":"https://www.livedoomovies.com/02_3HD_720p/3HDChunklist.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/CH3.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 
 {
@@ -335,9 +336,9 @@
 {
 "name":"AmarinTVสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-"url":"https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/AmarinTV.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 					
 {
@@ -351,9 +352,9 @@
 {
 "name":"Ch7สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",  
-"url":"https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/CH7.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 		
 {
@@ -367,9 +368,9 @@
 {
 "name":"PPTVสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",  
-"url":"https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/PPTV.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 
 {
