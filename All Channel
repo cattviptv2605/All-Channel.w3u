@@ -136,9 +136,9 @@
 {
 "name":"JKN18สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
-"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
-"referer":"https://www.88-hd.com/",
-"info":"Server 88-hd",
+"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/JKN18.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 
 {
