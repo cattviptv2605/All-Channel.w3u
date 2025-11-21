@@ -18,9 +18,9 @@
 {
 "name":"NBTสำรอง1", 
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png",
-"url":"https://github.com/cattviptv2605/digital/raw/refs/heads/main/NBT.m3u8",
-"referer":"https://github.com/",
-"info":"Server github",
+"url":"https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w884800294_b3128000.m3u8",
+"referer":"https://cdn-edge.iiptvcdn.com",
+"info":"Server iiptvcdn",
 "playInNatPlayer":"true"},
  
 {
@@ -488,9 +488,9 @@
 {
 "name":"Hitsสำรอง1",
 "image":"https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=304&tv=HITS",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/hits.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 
 {
@@ -504,9 +504,9 @@
 {
 "name":"Hitmoviesสำรอง1",
 "image":"https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=356&tv=HITSMOVIES",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/hitsmovies.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 
 {
@@ -734,27 +734,11 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"TVBThaiสำรอง1",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=415&tv=TVBCLASSICHD",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
 "name":"Dragon",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png",
 "url":"https://dookeela2.live/live-tv/mangorn",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
-"playInNatPlayer":"true"},
-
-{
-"name":"Dragonสำรอง1",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=289&tv=มังกร",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
 "playInNatPlayer":"true"},
 
 {
@@ -766,14 +750,6 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"tvNสำรอง1",
-"image":"https://dookeela.live/uploads/1703833429.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=283&tv=tvN|Indonesia",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
 "name":"tvn-movies",
 "image":"https://dookeela.live/uploads/1714100840.png",
 "url":"https://dookeela2.live/live-tv/tvn-movies",
@@ -782,27 +758,11 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"tvn-moviesสำรอง1",
-"image":"https://dookeela.live/uploads/1714100840.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=357&tv=tvNMOVIES",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
 "name":"iQIYI",
 "image":"https://dookeela.live/uploads/1706405008.png",
 "url":"https://dookeela2.live/live-tv/iqiyi",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
-"playInNatPlayer":"true"},
-
-{
-"name":"iQIYIสำรอง1",
-"image":"https://dookeela.live/uploads/1706405008.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=306&tv=iQIYI",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
 "playInNatPlayer":"true"},
 
 {
@@ -830,30 +790,6 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"FWMOV",
-"image":"https://www.fileinw.com/postor/20240429213309FWMOV.jpg",
-"url":"https://www.inwiptv.com/player_demo.php?channel=95262",
-"referer":"https://www.inwiptv.com/",
-"info":"Server inwiptv",
-"playInNatPlayer":"true"},
-
-{
-"name":"FWSOV",
-"image":"https://www.fileinw.com/postor/20240429213326FWSOV.jpg",
-"url":"https://www.inwiptv.com/player_demo.php?channel=94898",
-"referer":"https://www.inwiptv.com/",
-"info":"Server inwiptv",
-"playInNatPlayer":"true"},
-
-{
-"name":"FWTOON",
-"image":"https://www.fileinw.com/postor/20240429213651FWTOON.jpg",              
-"url":"https://www.inwiptv.com/player_demo.php?channel=89782",
-"referer":"https://www.inwiptv.com/",
-"info":"Server inwiptv",
-"playInNatPlayer":"true"},
-
-{
 "name":"Thainews",
 "image":"https://thaitvstream.com/streaming/thainews/thainews.png", 
 "url":"https://live.thaitvstream.com/play/thainews/index.m3u8",
@@ -876,14 +812,6 @@
 "referer": "https://live1.thaitvstream.com/",
 "info":"Server thaitvstream",
 "playInNatPlayer": "true"},
-
-{
-"name":"Go Sport TV",
-"image":"https://i.imgur.com/xXSprNJ.png",
-"url":"https://cdn-th-vip2.livestreaming.in.th/gosporttv/gosporttv/chunklis.m3u8", 
-"referer":"https://live1.thaitvstream.com/",
-"info":"Server thaitvstream",
-"playInNatPlayer":"true"},
 
 {
 "name":"Chiangrai",
@@ -921,13 +849,6 @@
 "image":"https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw",  
 "url":"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
 "info":"Server streamlock",
-"playInNatPlayer":"true"},
-
-{
-"name":"Thailand Box Office",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrSFPucRPMrqlexT1hIsliFyD3ET-oUADUw&s",  
-"url":"http://moo7hd.myddns.me:9192/stream/boxoffice/index.m3u8",
-"info":"Server moo7hd.myddns",
 "playInNatPlayer":"true"},
 
 {
@@ -1013,9 +934,9 @@
 {
 "name":"DiscoveryAsiaสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=302&tv=DiscoveryAsia",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discoveryasia.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
                   				
 {
@@ -1045,9 +966,9 @@
 {
 "name":"Animal Planetสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=300&tv=AnimalPlanet",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/animalplanet.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 
 {
@@ -1189,9 +1110,9 @@
 {  
 "name":"DMAXสำรอง1",
 "image":"https://dookeela.live/uploads/1714101765.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=360&tv=DMAX",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/dmax.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 				
 {
@@ -1205,9 +1126,9 @@
 {
 "name":"Lovenatureสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=533&tv=LoveNature4K",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/lovenature.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 
 {
@@ -1408,14 +1329,6 @@
 "url":"http://49.0.64.96:8007/WSCI",
 "referer":"https://49.0.64.96:8007",
 "info":"Server 49.0.64.96:8007",
-"playInNatPlayer":"true"},
-
-{
-"name":"ฟาร์มทีวี HD",
-"image":"https://www.fileinw.com/postor/20240528173456FARMTV.jpg",
-"url":"https://www.dooballfree24hrs.com/live/animalshow", 
-"referer":"https://www.dooballfree24hrs.com/",
-"info":"Server dooballfree24hrs",
 "playInNatPlayer":"true"},
 
 {
