@@ -624,7 +624,7 @@
 {
 "name":"trueFILM2สำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2-1.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -640,7 +640,7 @@
 {
 "name":"trueMOVIEHITSสำรอง1",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits1.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
