@@ -1262,9 +1262,9 @@
 {
 "name":"SamRujLokสำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=292&tv=สำรวจโลก",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://github.com/cattviptv2605/documentary/raw/refs/heads/main/samrujlok.m3u8", 
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
 											
 {
